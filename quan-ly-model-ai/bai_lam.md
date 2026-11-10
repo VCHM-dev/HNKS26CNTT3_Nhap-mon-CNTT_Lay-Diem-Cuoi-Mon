@@ -160,9 +160,9 @@ Property :
 
 > README.md, .gitignore và .env.example được chấm trực tiếp trên file ở gốc dự án. Đánh dấu `[x]` vào các mục đã làm để tự kiểm tra.
 
-- [X ] README.md: Heading 1, hình ảnh (`![Alt](path)`), mô tả có **in đậm**, _in nghiêng_ và `inline code`, bảng, code block, task list, blockquote
-- [X ] .gitignore có dòng `.env` (tên file đúng, không có đuôi .txt)
-- [X ] .env.example có đủ tên biến, giá trị để trống (tên file đúng, không có đuôi .txt)
+- [X] README.md: Heading 1, hình ảnh (`![Alt](path)`), mô tả có **in đậm**, _in nghiêng_ và `inline code`, bảng, code block, task list, blockquote
+- [X] .gitignore có dòng `.env` (tên file đúng, không có đuôi .txt)
+- [X] .env.example có đủ tên biến, giá trị để trống (tên file đúng, không có đuôi .txt)
 
 ## 4.6. Kiểm tra trang web bằng DevTools (F12) và báo cáo lỗi
 
